@@ -1,0 +1,4 @@
+permission-detect
+=================
+
+data/data/
